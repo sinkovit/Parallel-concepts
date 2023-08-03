@@ -2,6 +2,6 @@
 # $ conda create --name <env> --file <this file>
 matplotlib==3.3.2
 matplotlib-base==3.3.2
-numpy=1.19.2==py38h456fd55_0
-numpy-base=1.19.2==py38hcfb5961_0
-numpydoc=1.1.0==pyhd3eb1b0_1
+numpy=1.19.2
+numpy-base==1.19.2
+numpydoc==1.1.0
